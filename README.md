@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ![Les statistiques d'jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"])
+
+
+<p> 
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=jonas18121.visitor-badge"/> 
+</p>
