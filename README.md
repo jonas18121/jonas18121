@@ -22,6 +22,9 @@ Here are some ideas to get you started:
     <div>
       <p>👋 Hello, I'm jonathan aka jonas18121 and I'm a full stack developer</p>
     </div>
+    <p align='center'>
+      <a href="https://www.linkedin.com/in/jonathan-l-aaa675190/"><img height="24" src="https://github.com/jonas18121/jonas18121/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    </p>
   </div>
 </section>
 
