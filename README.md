@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <section>
   <div>
     <h1>Developer Symfony/Angular</h1> 
+    
+    <div>
+      <p>Hello, I'm jonathan aka jonas18121 and I am a Symfony / Angular developer</p>
+    </div>
   </div>
 </section>
 
