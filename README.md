@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <div>
     <h1>Full Stack Developer</h1> 
     <div>
-      <p>👋 Hello, I'm jonathan aka jonas18121 and I'm a full stack developer</p>
+      <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm jonathan aka jonas18121 and I'm a full stack developer</p>
     </div>
     
   </div>
