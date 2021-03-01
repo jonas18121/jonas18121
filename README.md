@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **jonas18121/jonas18121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
+
+<section>
+  <div>
+    <h1>Developer Symfony/Angular</h1> 
+  </div>
+</section>
 
 ![Les statistiques d'jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"])
 
