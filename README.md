@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.1min30.com/wp-content/uploads/2017/03/logo-WordPress.jpg" />
-<img align="left" alt="HTML5" width="36px" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css.png" />
-<img align="left" alt="HTML5" width="36px" src="https://banner2.cleanpng.com/20180601/vio/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfd8f9687.0714511015278484455882.jpg" />
+<img align="left" alt="HTML5" width="46px" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css.png" />
+<img align="left" alt="HTML5" width="46px" src="https://banner2.cleanpng.com/20180601/vio/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfd8f9687.0714511015278484455882.jpg" />
 
 
 
