@@ -34,6 +34,7 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/jonathan-l-aaa675190/"><img height="24" src="https://github.com/jonas18121/jonas18121/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+
 ### Languages and Tools:
 
 <img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
