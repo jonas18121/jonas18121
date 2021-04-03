@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     <div>
       <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Jonathan aka Jonas18121 and I'm a full stack developer</p>
     </div>
-    
   </div>
 </section>
 
