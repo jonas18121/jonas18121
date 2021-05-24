@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="46px" src="https://banner2.cleanpng.com/20180601/vio/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfd8f9687.0714511015278484455882.jpg" />
 <img align="left" alt="MongoDB" width="56px" src="https://ih1.redbubble.net/image.352416471.2750/fpp,small,lustre,wall_texture,product,750x1000.u5.jpg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="React Native" width="26px" src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-native.png" />
 <img align="left" alt="HTML5" width="26px" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="46px" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css.png" />
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
