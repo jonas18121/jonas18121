@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </div>
 </section>
 
-![Les statistiques de jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Les statistiques de jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"])               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me :
 
