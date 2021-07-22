@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=jonas18121.jonas18121)
+
 ### Connect with me :
 
 <p align='center'>
