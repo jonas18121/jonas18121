@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="MongoDB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+
 <!--
 <img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Phpstorm.png/100px-Phpstorm.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/100px-PyCharm_Logo.svg.png" />
@@ -52,9 +52,10 @@ Here are some ideas to get you started:
 <!-- <img align="left" alt="Wordpress" width="26px" src="https://cdn.1min30.com/wp-content/uploads/2017/03/logo-WordPress.jpg" /> -->
 <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
 <!-- <img align="left" alt="Less" width="46px" src="https://w7.pngwing.com/pngs/392/883/png-transparent-computer-icons-less-web-development-others-text-logo-css.png" /> -->
-<!-- <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
+<!-- <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 -->
 
+<img align="left" alt="Visual_Studio_Code_" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
