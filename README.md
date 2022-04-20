@@ -55,7 +55,7 @@ Here are some ideas to get you started:
      height="150px" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&layout=compact&theme=chartreuse-dark&langs_count=8" 
 />
-<img height="150"/> 
+<img height="50"/> 
 
 <hr>
 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminale" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img height="150"/>
+<img height="50"/>
 <hr>
 
 <div>
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
-<img height="150"/>
+<img height="50"/>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
