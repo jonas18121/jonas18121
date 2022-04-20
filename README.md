@@ -62,15 +62,7 @@ Here are some ideas to get you started:
 
 ### Connect with me :
 
-<p>
-<a href="https://www.linkedin.com/in/jonathan-l-aaa675190/">
-    <!--<img height="24" src="https://github.com/jonas18121/jonas18121/blob/main/linkedin.png?raw=true"> -->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- 
-</a>&nbsp;&nbsp;
-</p>
-
-<a href="https://www.linkedin.com/in/mathis-plumail-62abb1199/" target="_blank">	
+<a href="https://www.linkedin.com/in/jonathan-l-aaa675190/" target="_blank">	
 	
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 	
