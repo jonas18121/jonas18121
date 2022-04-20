@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </section>
 
 <p align="center">
-  <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=Autodidacte%20Developer;Full%20Stack%20Developer;4%20years%20coding%20experience;Always%20learning%20new%20tech;Turn%20idea%20into%20reality&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=Autodidacte%20Developer;Full%20Stack%20Developer;4%20years%20experience;Always%20learning%20new%20tech;Turn%20idea%20into%20reality&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jonas18121.jonas18121" />
