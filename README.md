@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminale" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<img height="150"/>
 <hr>
 
-<img height="150"/>
 <div>
    <h3 align="center">## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies</h3>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
