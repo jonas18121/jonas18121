@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://img.shields.io/github/followers/jonas18121?label=Follow&style=social" />
 
 <h1 align="center"></h1>
-<hr>
 <img 
      align="left" 
      height="150px" 
@@ -112,7 +111,7 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
-<img height="50"/>
+<img height="10"/>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
