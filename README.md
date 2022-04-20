@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👋
 - boss
+
+![Les statistiques de jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"])               
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=jonas18121.jonas18121)
 -->
 
 <section align="center">
@@ -30,18 +36,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=Autodidacte%20Developer;Full%20Stack%20Developer;4%20years%20coding%20experience;Always%20learning%20new%20tech;Turn%20idea%20into%20reality&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-![Les statistiques de jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"])               
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jonas18121.jonas18121" />
+<img align="right" src="https://img.shields.io/github/followers/jonas18121?label=Follow&style=social" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://visitor-badge.glitch.me/badge?page_id=jonas18121.jonas18121)
-
-<p align='center'>
- <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
 
 ### Connect with me :
 
