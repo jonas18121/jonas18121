@@ -62,11 +62,12 @@ Here are some ideas to get you started:
 
 ### Connect with me :
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/jonathan-l-aaa675190/">
+<p>
+<a href="https://www.linkedin.com/in/jonathan-l-aaa675190/">
     <!--<img height="24" src="https://github.com/jonas18121/jonas18121/blob/main/linkedin.png?raw=true"> -->
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-   </a>&nbsp;&nbsp;
+ 
+</a>&nbsp;&nbsp;
 </p>
 
 <hr>
