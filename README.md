@@ -103,7 +103,7 @@ Here are some ideas to get you started:
    </p>
 </div>
 
-<img height="150"/
+<img height="150"/>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
