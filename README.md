@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </section>
 
 <p align="center">
-  <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Full%20Stack%20Developer;%2B4%20years%20of%20coding%20experience;I%20always%20learning%20new%20tech&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Full%20Stack%20Developer;B%204%20years%20of%20coding%20experience;I%20always%20learning%20new%20tech&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ![Les statistiques de jonas18121 sur les github](https://github-readme-stats.vercel.app/api?username=jonas18121&show_icons=true&hide=["prs","issues","contribs"])               
