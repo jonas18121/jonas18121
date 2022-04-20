@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <div>
    <h3 align="center">## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies</h3>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="99%" src="https://github-profile-trophy.vercel.app/?username=jonas18121&layout=compact&theme=algolia" alt="jonas18121"/></a> 
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=jonas18121&layout=compact&theme=algolia" alt="jonas18121"/></a> 
    </p>
 </div>
 
