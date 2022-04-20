@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Connect with me :
+<h3 align="center">Connect with me :</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jonathan-l-aaa675190/" target="_blank">	
 	
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <hr>
 
 <div>
-   <h3 align="center">## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies</h3>
+   <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies</h3>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=jonas18121&layout=compact&theme=algolia" alt="jonas18121"/></a> 
    </p>
