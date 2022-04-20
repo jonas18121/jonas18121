@@ -70,6 +70,12 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;
 </p>
 
+<a href="https://www.linkedin.com/in/mathis-plumail-62abb1199/" target="_blank">	
+	
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+	
+</a>
+
 <hr>
 
 ### Languages and Tools:
