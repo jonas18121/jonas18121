@@ -56,7 +56,7 @@ Here are some ideas to get you started:
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&layout=compact&theme=chartreuse-dark&langs_count=8" 
    />
 </div>
-<img height="50"/> 
+<img height="150"/> 
 
 <hr>
 
