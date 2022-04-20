@@ -32,15 +32,19 @@ Here are some ideas to get you started:
   </div>
 </section>
 
+<hr>
+
 <p align="center">
   <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=Autodidacte%20Developer;Full%20Stack%20Developer;4%20years%20experience;Always%20learning%20new%20tech;Turn%20idea%20into%20reality&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+
+<hr>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jonas18121.jonas18121" />
 <img align="right" src="https://img.shields.io/github/followers/jonas18121?label=Follow&style=social" />
 
 <h1 align="center"></h1>
-
+<hr>
 <img 
      align="left" 
      height="150px" 
@@ -53,6 +57,7 @@ Here are some ideas to get you started:
 />
 <img height="150"/> 
 
+<hr>
 
 ### Connect with me :
 
@@ -60,6 +65,7 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/jonathan-l-aaa675190/"><img height="24" src="https://github.com/jonas18121/jonas18121/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+<hr>
 
 ### Languages and Tools:
 
@@ -95,6 +101,8 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminale" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<hr>
+
 <img height="150"/>
 <div>
    <h3 align="center">## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies</h3>
@@ -103,6 +111,7 @@ Here are some ideas to get you started:
    </p>
 </div>
 
+<hr>
 <img height="150"/>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
