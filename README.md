@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-  <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=Autodidacte%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20tech;Turn%20idea%20into%20reality&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/jonas18121"><img src="https://readme-typing-svg.herokuapp.com/?lines=Symfony;ReactJs;React%20Native;Angular;NodeJs;Always%20learning%20new%20tech;Turn%20idea%20into%20reality&font=Beau%Rivage&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <hr>
