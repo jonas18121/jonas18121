@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <div>
     <h1>Full Stack Developer</h1> 
     <div>
-      <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Jonathan aka Jonas18121 and I'm a full stack developer</p>
+      <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"> Hello, I'm Jonathan aka Jonas18121 and I'm a full stack developer</p>
     </div>
   </div>
 </section>
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 <hr>
 
 <div>
-   <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies</h3>
+   <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="15px"> Git profile Trophies</h3>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=jonas18121&layout=compact&theme=algolia" alt="jonas18121"/></a> 
    </p>
