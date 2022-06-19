@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <div>
     <h1>Full Stack Developer</h1> 
     <div>
-      <p><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"> Hello, I'm Jonathan aka Jonas18121 and I'm a full stack developer</p>
+      <p width="15px"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"> Hello, I'm Jonathan aka Jonas18121 and I'm a full stack developer</p>
     </div>
   </div>
 </section>
