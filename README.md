@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <div style="display:block;">
 <hr>
 
-<h3 align="center">Connect with me :</h3>
+<h3 align="center" style="display:block;">Connect with me :</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jonathan-l-aaa675190/" target="_blank">	
 	
