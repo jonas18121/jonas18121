@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"></h1>
 <div>
-  <div style="display:block;">
+  <p style="display:block;">
    <img 
         align="left" 
         height="150px" 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
         height="150px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&layout=compact&theme=chartreuse-dark&langs_count=8" 
    />
-   </div>
+   </p>
 </div>
 <img height="150"/> 
 
