@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 <img height="150"/> 
 
-<div></div>
+<div style="display:block;">
 <hr>
 
 <h3 align="center">Connect with me :</h3>
@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 	
 </a>
+</div>
 </div>
 
 <hr>
