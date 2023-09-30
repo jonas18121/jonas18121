@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     />
    </p>
 </div><br/>
-<img height="150"/> 
+<img height="300"/> 
 
 <div style="display:block;">
 <hr>
