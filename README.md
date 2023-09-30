@@ -61,12 +61,13 @@ Here are some ideas to get you started:
    />
    </p>
 </div><br/>
+<img height="150"/> 
 <div>
   <p style="display:block;">
    <img 
         align="left" 
         height="150px" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jonas18121&theme=dracula&hide_border=true" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jonas18121&theme=chartreuse-dark&hide_border=true" 
     />
    </p>
 </div><br/>
