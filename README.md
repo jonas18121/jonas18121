@@ -66,7 +66,7 @@ Here are some ideas to get you started:
    <img 
         align="left" 
         height="150px" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yoanbernabeu&theme=dracula&hide_border=true" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jonas18121&theme=dracula&hide_border=true" 
     />
    </p>
 </div><br/>
