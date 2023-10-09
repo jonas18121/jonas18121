@@ -85,10 +85,10 @@ Here are some ideas to get you started:
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&show_icons=true&theme=chartreuse-dark) -->
 <!-- <img height="250"/>  -->
 
-# MY STATS :
-[![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--# MY STATS :-->
+<!--[![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jonas18121/jonas18121/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
 
 <div style="display:block;">
 <hr>
