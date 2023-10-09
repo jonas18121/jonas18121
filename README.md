@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <div>
   <p style="display:block;">
    <img 
-        align="center" 
+        align="left" 
         height="200px" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&show_icons=true&theme=chartreuse-dark" 
     />
