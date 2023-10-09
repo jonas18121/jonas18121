@@ -72,7 +72,7 @@ Here are some ideas to get you started:
    </p>
 </div><br/>
 
-<div>
+<!-- <div>
   <p style="display:block;">
    <img 
         align="left" 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&show_icons=true&theme=chartreuse-dark" 
     />
    </p>
-</div><br/>
+</div><br/> -->
 
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&show_icons=true&theme=chartreuse-dark) -->
 <!-- <img height="250"/>  -->
