@@ -71,6 +71,8 @@ Here are some ideas to get you started:
     />
    </p>
 </div><br/>
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas18121&show_icons=true&theme=radical)
 <!-- <img height="250"/>  -->
 
 <div style="display:block;">
